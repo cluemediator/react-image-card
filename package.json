@@ -9,6 +9,21 @@
   },
   "main": "dist/ImageCard.js",
   "module": "dist/ImageCard.js",
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cluemediator/react-image-card.git"
+  },
+  "keywords": [],
+  "author": "Clue Mediator",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cluemediator/react-image-card/issues"
+  },
+  "homepage": "https://github.com/cluemediator/react-image-card#readme",
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
