@@ -1,6 +1,6 @@
 {
   "name": "react-image-card",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": false,
   "babel": {
     "presets": [
@@ -17,7 +17,10 @@
     "type": "git",
     "url": "git+https://github.com/cluemediator/react-image-card.git"
   },
-  "keywords": [],
+  "keywords": [
+    "react",
+    "card"
+  ],
   "author": "Clue Mediator",
   "license": "ISC",
   "bugs": {
