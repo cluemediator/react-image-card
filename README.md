@@ -1,9 +1,9 @@
 # react-image-card
-Create a npm package using `create-react-app`.
+Create an npm package using `create-react-app`.
 
 ## Documentation
 
-[https://www.cluemediator.com/create-a-npm-package-using-create-react-app](https://www.cluemediator.com/create-a-npm-package-using-create-react-app)
+[https://www.cluemediator.com/create-an-npm-package-using-create-react-app](https://www.cluemediator.com/create-an-npm-package-using-create-react-app)
 
 ## Installation
 
